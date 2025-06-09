@@ -3,7 +3,7 @@
 Sou estudante de *Sistemas de informação* :computer:
 
 Também faço curso de desenvolvimento 
-Front End na plataforma da **DIO**, e pretendo seguir na carreira na área. 
+Front End na plataforma da **DIO**, e pretendo seguir carreira na área. 
 
 *Venho estudando alguns projetos para colaborar e adquirir conhecimento contribuindo com a comunidade do Github* :notebook:
 
