@@ -1,8 +1,8 @@
 ### Olá, Seja bem vindo(a)👋
 
-Sou estudante de *Sistemas de informação* :computer:
+Cursando *Sistemas para internet* :computer:
 
-Também faço curso de desenvolvimento 
+Faço curso de desenvolvimento 
 Front End na plataforma da **DIO**, e pretendo seguir carreira na área. 
 
 *Venho estudando alguns projetos aqui na plataforma para colaborar 
