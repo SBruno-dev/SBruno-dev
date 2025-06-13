@@ -5,7 +5,8 @@ Sou estudante de *Sistemas de informação* :computer:
 Também faço curso de desenvolvimento 
 Front End na plataforma da **DIO**, e pretendo seguir carreira na área. 
 
-*Venho estudando alguns projetos para colaborar e adquirir conhecimento contribuindo com a comunidade do Github* :notebook:
+*Venho estudando alguns projetos aqui na plataforma para colaborar 
+e também adquirir conhecimento com a comunidade do Github* :notebook:
 
 
 Tecnologias em Aprendizado
