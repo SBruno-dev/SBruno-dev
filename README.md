@@ -1,4 +1,4 @@
-### Olá como vai ? Seja bem vindo(a)👋
+### Olá, Seja bem vindo(a)👋
 
 Sou estudante de *Sistemas de informação* :computer:
 
