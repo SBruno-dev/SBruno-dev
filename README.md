@@ -7,9 +7,6 @@ Cursando Faculdade de *Sistemas para internet* :computer:
 
 Estudando Front End na plataforma de curso **DIO**
 <hr>
-*Venho estudando alguns projetos aqui na plataforma para colaborar <br>
-e também adquirir conhecimento com a comunidade do Github* :notebook:
-
 
 Tecnologias em Aprendizado
 
