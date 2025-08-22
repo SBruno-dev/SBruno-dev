@@ -1,9 +1,8 @@
 ### Olá, Seja bem vindo(a)👋
 
-Cursando *Sistemas para internet* :computer:
+Cursando Faculdade de *Sistemas para internet* :computer:
 
-Faço curso de desenvolvimento 
-Front End na plataforma da **DIO**, e pretendo seguir carreira na área. 
+Curso de desenvolvimento Front End na plataforma da **DIO**, e pretendo seguir carreira na área. 
 
 *Venho estudando alguns projetos aqui na plataforma para colaborar <br>
 e também adquirir conhecimento com a comunidade do Github* :notebook:
