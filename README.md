@@ -1,5 +1,5 @@
 ### Olá, Seja bem vindo(a)👋
-Sou estudante de Sistemas para internet, buscando entrar na área de TI. A procura de uma oportunidade de estágio.
+Sou estudante de Sistemas para internet (com foco em front end), buscando entrar na área de TI. A procura de uma oportunidade de estágio.
 
 Cursando Faculdade de *Sistemas para internet* :computer:
 
