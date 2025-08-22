@@ -1,9 +1,11 @@
 ### Olá, Seja bem vindo(a)👋
-Sou estudante de Sistemas para internet (com foco em front end), buscando entrar na área de TI. A procura de uma oportunidade de estágio.
+Sou estudante de Sistemas para internet (com foco em front end), buscando entrar na área de TI.
 
-Cursando Faculdade de *Sistemas para internet* :computer:
+A procura de uma oportunidade de estágio.
 
-Curso de desenvolvimento Front End na plataforma da **DIO**
+Cursando Faculdade de *Sistemas para internet* :computer: 
+
+Estudando Front End na plataforma de curso **DIO**
 <hr>
 *Venho estudando alguns projetos aqui na plataforma para colaborar <br>
 e também adquirir conhecimento com a comunidade do Github* :notebook:
