@@ -3,8 +3,6 @@ Sou estudante de Sistemas para internet, buscando entrar na área de TI.
 
 Cursando Faculdade de *Sistemas para internet* com foco em Front End :computer: 
 
-<hr>
-
 Tecnologias em Aprendizado
 
 
