@@ -4,6 +4,7 @@ Sou estudante de Sistemas para internet (com foco em front end), buscando entrar
 A procura de uma oportunidade de estágio.
 
 Cursando Faculdade de *Sistemas para internet* :computer: 
+
 Estudando com foco em Front End
 <hr>
 
